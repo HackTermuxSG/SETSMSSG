@@ -39,7 +39,7 @@ echo -e "${verde}
 ┌═════════════════════┐
 █ ${blanco}Instalando quack... ${verde}█
 └═════════════════════┘"
-git clone https://github.com/TermuxHacking000/quack > /dev/null 2>&1
+git clone https://github.com/HackTermuxSG/quack > /dev/null 2>&1
 cd quack
 chmod 777 quack.sh
 ./quack.sh
