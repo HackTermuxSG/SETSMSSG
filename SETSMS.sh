@@ -37,7 +37,7 @@ read -r phone
 #
 # CÓDIGO
 #
-SETSMS
+SETSMSSG
 PHONE
 cd
 cd quack
