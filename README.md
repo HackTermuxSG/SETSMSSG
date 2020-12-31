@@ -11,4 +11,4 @@ chmod 711 install.sh
 #
 ./SETSMS.sh
 #
-# Created by: Informatic_in_Termux
+# Created by: _.Soy_Bastian._
