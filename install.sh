@@ -62,6 +62,6 @@ echo -e "${verde}
 └═══════════════════════┘
 ┃
 ┃    ┌═════════════┐
-└═>>>█ ${blanco}./SETSMS.sh ${verde}█
+└═>>>█ ${blanco}./SETSMSSG.sh ${verde}█
      └═════════════┘
 "${blanco}
